@@ -1,0 +1,28 @@
+name: becvandyk
+favicon: null
+layout_spectrum: 0.32930324715562165
+typography_spectrum: 0.4908314684871584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7459022938273847
+  lightness: 0.6288449924904853
+  saturation: 0.00931606744416058
+  rhythmicContrast: 0.9937490380834788
+purpose: []
